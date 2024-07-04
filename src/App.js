@@ -271,13 +271,6 @@ function App() {
       bank: "State Bank of India",
       amount: 0
     },
-    {
-    name: "Maholatora Distributors",
-    accNo: "436301010100785",
-    ifscCode: "UBIN054632",
-    bank: "Union Bank",
-    amount: 0
-    },
   ];
 
   const otherStateArray = [
