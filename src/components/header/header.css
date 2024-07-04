@@ -1,0 +1,13 @@
+.head {
+    background: #222831;
+}
+
+.fixed-nav {
+    position: fixed;
+    width: 100vw;
+    top: 0;
+}
+
+.head-left {
+    width: 30rem;
+}

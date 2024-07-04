@@ -1,0 +1,62 @@
+.form-div {
+    width: 90vw;
+}
+
+.select-state {
+    background: #EEEEEE;
+}
+
+.button {
+    background-color: white;
+    color: black;
+    padding: 16px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 32px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid #555555;
+    width: 10rem;
+}
+
+.button1:hover {
+    background-color: #00ADB5;
+    color: white;
+    border-radius: 6px;
+}
+
+.btn-preview {
+    background-color: #EA4C89;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 10px 16px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color 100ms;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+/* .btn-preview :hover,
+  .btn-preview:focus {
+    background-color: #e18409;
+  } */

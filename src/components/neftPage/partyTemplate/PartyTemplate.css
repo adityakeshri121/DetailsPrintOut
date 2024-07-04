@@ -1,0 +1,50 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.each-row {
+    background: #456770;
+    margin: 3px 8px;
+    border-radius: 4px;
+    height: 3rem;
+    color: #E7F6F2;
+}
+
+
+input {
+    padding-left: 8px;
+    border-radius: 4px;
+}
+
+.btn-save-party-amt {
+    background-color: #fff000;
+    border-radius: 12px;
+    color: #000;
+    cursor: pointer;
+    font-weight: bold;
+    width: 5rem;
+    height: 2rem;
+    text-align: center;
+    transition: 200ms;
+    box-sizing: border-box;
+    border: 0;
+    font-size: 10px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+
+.show-edit-btn {
+    color: #FFF9B0;
+    width: 1.7rem;
+    height: 1.7rem;
+}
+
+.hide-edit-btn {
+    color: #456770;
+    width: 1.7rem;
+    height: 1.7rem;
+}
